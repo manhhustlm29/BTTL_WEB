@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1. Lấy source code từ GitHub
+      # 1. Lấy source code từ GitHub ana
       - name: Checkout source code
         uses: actions/checkout@v4
 
